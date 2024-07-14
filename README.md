@@ -13,8 +13,8 @@ This is a graphical Tic-Tac-Toe game application developed using Python and Tkin
 <br>
 5. Game State Management: Efficient handling of player turns, winner checks, and game resets.
 <h4>Requirements</h4>Requirements
-Python 3.x
+1. Python 3.x
 <br>
-Tkinter (usually included with Python standard library)
+2. Tkinter (usually included with Python standard library)
 <br>
-Random library (usually included with Python standard library)
+3. Random library (usually included with Python standard library)
